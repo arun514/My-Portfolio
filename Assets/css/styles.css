@@ -146,6 +146,31 @@ h1.h1-title{
 .p-aboutme{
     color: #3dbbc2;
 }
-.p-ml{
+
+.padding-left{
     padding-left: 2rem !important;
     }
+
+h1.padding-left{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+p.para-left{
+    color: #42999E;
+    margin-bottom: 1rem !important;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+    
+
+}
+
+p.para-experience{
+    margin-bottom: 30px;
+    color: #6c6c6c;
+    
+}
+
