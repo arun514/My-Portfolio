@@ -63,8 +63,8 @@ body{
 .app-menu li a{
     text-decoration: none;
     padding: 10px 12px;
-    color: #FFFF;
-    background-color:#42999e ;
+    
+    background-color:#33797c ;
     font-size: 16px;
     font-weight: 500;
     text-transform: capitalize;
