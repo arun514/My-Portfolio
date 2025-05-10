@@ -72,6 +72,13 @@ body{
     transition: .6s all ease;
 }
 
+@media(max-width: 600px){}
+.app-menu li a{
+    font-size: 16px;
+    padding: 0.3 rem 0.5 rem;
+}
+
+
 .app-menu li a:hover{
     background-color: #386a6d;
     border-radius: 25px;
@@ -133,7 +140,13 @@ h1.h1-title{
 
 .p-wrap{
     margin-bottom: 40px;
-    padding-right: 100px
+    padding-right: 100px;
+    color: #6c6c6c;
+}
+
+.p-wrap-skills{
+    margin-bottom: 40px;
+    color: #6c6c6c;
 }
 
 .container{
